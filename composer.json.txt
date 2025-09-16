@@ -1,0 +1,5 @@
+{
+    "name": "myproject",
+    "description": "Proyek PHP sederhana menggunakan Composer",
+    "require"; {}
+}
